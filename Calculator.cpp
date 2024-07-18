@@ -38,7 +38,7 @@ int main()
       }
     }
     else
-      cout << "Error, Pleas Enter From This (x,*,+,-,/)\n";
+      cout << "Error, Pleas Enter From This (x,*,+,-,/,%)\n";
   }
   return 0;
 }
