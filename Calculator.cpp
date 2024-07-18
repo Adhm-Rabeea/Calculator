@@ -33,7 +33,7 @@ int main()
         cout << "= " << n1 / n2 << "\n";
         break;
       case '%':
-        cout << "= " << n1 % n2 << "\n";
+        cout << "= " << int(n1) % int(n2) << "\n";
         break;
       }
     }
